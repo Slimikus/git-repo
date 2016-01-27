@@ -1,3 +1,4 @@
 print("Goodbay world!")
 print("Goodbay")
+print("Goodbay everybody!")
 print("Ещё увидемся")
